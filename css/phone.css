@@ -1,0 +1,14 @@
+body
+{
+    /* background-color: red; */
+}
+
+#services_container
+{
+    flex-direction: column;
+}
+
+.box_services_container
+{
+    margin: 10px 0;
+}
